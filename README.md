@@ -4,22 +4,32 @@
 🔭 Currently working on: **Java Projects**  
 🌱 Learning: **Java, JavaScript & cloud fundamentals**  
 💡 Interested in software engineering, automation, open source & AI
-📬 Contact: **ssanchez.munoz.adrian@gmail.com** · [LinkedIn](https://www.linkedin.com/in/adri%C3%A1n-s%C3%A1nchez-mu%C3%B1oz-0b9b49396)
+📬 Contact:  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](TU_URL_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:TU_EMAIL)
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:** Java, JavaScript, C, SQL  
-**Frontend:** HTML, CSS
-**Tools:** Git, Docker, VS Code, Postman  
+**Frontend:** HTML, CSS  
+**Tools:** Git, Docker, VS Code
 **Databases:** MySQL, MongoDB, MariaDB
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asanmun1905&layout=compact)
+
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,docker,linux,git,c)](https://skillicons.dev)
+
 
 ---
 
 ## 📊 GitHub Stats
 
 ![Adrián’s GitHub stats](https://github-readme-stats.vercel.app/api?username=asanmun1905&show_icons=true)
+
+![Visitors](https://komarev.com/ghpvc/?username=asanmun1905&color=blue)
 
 ---
 
