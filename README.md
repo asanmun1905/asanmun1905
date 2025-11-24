@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Adrián!
+# Hi, I'm Adrián!
 
-🎓 Student / Developer from Spain  
-🔭 Currently working on: **Java Projects**  
-🌱 Learning: **Java, JavaScript & cloud fundamentals**  
-💡 Interested in software engineering, automation, open source & AI
-📬 Contact:  
+- Student / Developer from Spain  
+- Currently working on: **Java Projects**  
+- Learning: **Java, JavaScript & cloud fundamentals**  
+- Interested in software engineering, automation, open source & AI
+- Contact:  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](TU_URL_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:TU_EMAIL)
@@ -35,6 +35,6 @@
 
 ## ✅ Fun facts
 
-🧠 I learn best by building real projects  
-⚡ Always refactoring things that already work  
-☕ Fuelled by coffee and curiosity
+- I learn best by building real projects  
+- Always refactoring things that already work  
+- Fuelled by coffee and curiosity
