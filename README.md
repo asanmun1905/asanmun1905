@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Adrián!
 
-<!--
-**asanmun1905/asanmun1905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student / Developer from Spain  
+🔭 Currently working on: **[Project Name](URL)**  
+🌱 Learning: **React, TypeScript & cloud fundamentals**  
+💡 Interested in software engineering, automation & open source  
+📬 Contact: **your-email@example.com** · [LinkedIn](URL)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages:** Java, JavaScript, Python, SQL  
+**Frontend:** HTML, CSS, React  
+**Backend:** Node.js, Express  
+**Tools:** Git, Docker, VS Code, Postman  
+**Databases:** MySQL, MongoDB
+
+---
+
+## 🚀 Featured Projects
+
+- **[project-1](URL)** — short description (what problem it solves)
+- **[project-2](URL)** — tech used + why it's cool
+- **[project-3](URL)** — still in progress 👀
+
+---
+
+## 📊 GitHub Stats
+
+![Adrián’s GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true)
+
+---
+
+## ✅ Fun facts
+
+🧠 I learn best by building real projects  
+⚡ Always refactoring things that already work  
+☕ Fuelled by coffee and curiosity
