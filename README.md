@@ -1,34 +1,25 @@
 # 👋 Hi, I'm Adrián!
 
 🎓 Student / Developer from Spain  
-🔭 Currently working on: **[Project Name](URL)**  
-🌱 Learning: **React, TypeScript & cloud fundamentals**  
-💡 Interested in software engineering, automation & open source  
-📬 Contact: **your-email@example.com** · [LinkedIn](URL)
+🔭 Currently working on: **Java Projects**  
+🌱 Learning: **Java, JavaScript & cloud fundamentals**  
+💡 Interested in software engineering, automation, open source & AI
+📬 Contact: **ssanchez.munoz.adrian@gmail.com** · [LinkedIn](https://www.linkedin.com/in/adri%C3%A1n-s%C3%A1nchez-mu%C3%B1oz-0b9b49396)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java, JavaScript, Python, SQL  
-**Frontend:** HTML, CSS, React  
-**Backend:** Node.js, Express  
+**Languages:** Java, JavaScript, C, SQL  
+**Frontend:** HTML, CSS
 **Tools:** Git, Docker, VS Code, Postman  
-**Databases:** MySQL, MongoDB
-
----
-
-## 🚀 Featured Projects
-
-- **[project-1](URL)** — short description (what problem it solves)
-- **[project-2](URL)** — tech used + why it's cool
-- **[project-3](URL)** — still in progress 👀
+**Databases:** MySQL, MongoDB, MariaDB
 
 ---
 
 ## 📊 GitHub Stats
 
-![Adrián’s GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true)
+![Adrián’s GitHub stats](https://github-readme-stats.vercel.app/api?username=asanmun1905&show_icons=true)
 
 ---
 
