@@ -6,8 +6,8 @@
 - Interested in software engineering, automation, open source & AI
 - Contact:  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](TU_URL_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:TU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/adri%C3%A1n-s%C3%A1nchez-mu%C3%B1oz-0b9b49396)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:ssanchez.munoz.adrian@gmail.com)
 
 ---
 
