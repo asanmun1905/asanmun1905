@@ -75,16 +75,6 @@ I'm a passionate developer and student from Spain who loves building things from
 
 ---
 
-## 📊 GitHub Analytics
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asanmun1905&layout=compact&theme=dark)
-
-![Adrián's GitHub stats](https://github-readme-stats.vercel.app/api?username=asanmun1905&show_icons=true&theme=dark)
-
-![Visitors](https://komarev.com/ghpvc/?username=asanmun1905&color=31b7db&style=flat-square)
-
----
-
 ## ☕ Fun Facts
 
 * 🏗️ **Build to Learn:** I learn best by getting my hands dirty and building real, functional projects.
